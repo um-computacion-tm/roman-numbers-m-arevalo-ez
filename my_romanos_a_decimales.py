@@ -1,4 +1,5 @@
 def roman_to_decimal(numero_romano):
+
     decimal = 0
     i = 0
     while i < len(numero_romano):
